@@ -1,0 +1,6 @@
+{
+  "name": "FormCraft & CourseFlow Studio",
+  "description": "Full-stack dynamic form builder, course registration platform, and survey analytics suite with payment flows, capacity control, and Supabase integration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
